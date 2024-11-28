@@ -1,0 +1,2 @@
+backend/main.exe filter=lfs diff=lfs merge=lfs -text
+webapp/my-electron-app.exe filter=lfs diff=lfs merge=lfs -text
